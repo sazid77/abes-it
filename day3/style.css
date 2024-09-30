@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+table{
+    background-color: rgb(44, 234, 234);
+    width: 90%;
+    border-style: groove;
+    border-color: red;
+    border-width: 10px;
+    border-radius: 12px;
+    margin-left: 80px;
+  
+ 
+
+}
+
+#heading{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(199, 87, 39);
+}
+
+#row{
+    background-color: rgb(58, 238, 169);
+    text-align: center;
+}
+
+#row2{
+    background-color: rgb(219, 139, 250);
+    text-align: center;
+}
+
+
+
+
+
+
