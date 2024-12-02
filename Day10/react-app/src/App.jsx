@@ -1,10 +1,15 @@
 import "./App.css"
 
 
-const App=()=>{
+const App=({name,email,roll})=>{
   return(
     <>
-    <center><h1 className="app">hello world</h1></center>
+    <div>
+      <h1>studen Details</h1>
+      <h2>Name:{name}</h2>
+      <h2>Email id:{email}</h2>
+      <h2>Roll no :{roll} </h2>
+    </div>
     </>
   )
 }

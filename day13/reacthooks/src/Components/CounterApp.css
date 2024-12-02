@@ -1,0 +1,25 @@
+.disp{
+  padding: 50px;
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 10px;
+}
+.btn:hover{
+  color: black;
+  background-color: white;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  scale: 1.2;
+}
+.header{
+  font-size: 60px;
+}

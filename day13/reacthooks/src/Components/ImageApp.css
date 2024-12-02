@@ -1,0 +1,22 @@
+
+  .disp{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+.panel{
+  margin: 30px;
+}
+.btn{
+  margin: 10px;
+ padding: 8px;
+ font-size: 20px;
+ border-radius: 7px;
+}
+
+.image{
+  height: 300px;
+  margin-bottom: 200px;
+}
